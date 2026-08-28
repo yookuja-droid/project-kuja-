@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MENAMPILKAN Gambar Online</title>
+</head>
+<body>
+  <h2>PEMANDANGAN LAUT</h2>
+  
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbqZY8nwX6C2Z0Y7PaPaCU0ESJWLt1yGjE7EXTnD2FD47uK1xhkOyuw4Ny&s=10">
+    
+  
+    
+</body>
+</html>
